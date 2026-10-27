@@ -1,2 +1,3 @@
 # Bedrijfsnaam-BV
-Tja
+Dit is de repositorey van de bedrijf 
+👍
