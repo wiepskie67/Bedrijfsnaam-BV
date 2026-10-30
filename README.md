@@ -1,4 +1,4 @@
-# Bedrijfsnaam-BV
+# Minecraft-Mod-BV
 Dit is de repositorey van de bedrijf 
 👍
 Teamleden:
