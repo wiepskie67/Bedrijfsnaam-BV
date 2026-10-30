@@ -1,4 +1,4 @@
-# Minecraft-Mod-BV
+# Indie-games-BV
 Dit is de repositorey van de bedrijf 
 👍
 
